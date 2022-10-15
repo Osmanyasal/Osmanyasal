@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Osmanyasal
+- 👋 Hi, I’m @Osmanyasal, a master student.
 - 👀 I’m interested in Parallel Programming and HPC
-- 🌱 I’m currently learning Computer architecture, C++, Assembly
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying Computer Architecture, C++, Assembly, Cuda
+- 💞️ I’m collaborating with [parcorelab at Koç University](https://parcorelab.ku.edu.tr/)
 - 📫 How to reach me osmyasal@gmail.com
 
 <!---
