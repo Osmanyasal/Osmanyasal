@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osmanyasal and I'm a master student at [Koç University](https://www.ku.edu.tr/).
 - 👀 I’m interested in Parallel Programming and HPC
-- 🌱 I’m currently studying Computer Architecture, C++, Assembly, Cuda
+- 🌱 I’m currently studying Computer Architecture, performance monitoring, C++, openmp, some computer graphics and opengl
 - 💞️ I’m collaborating with [parcorelab at Koç University](https://parcorelab.ku.edu.tr/)
 - 📫 How to reach me osmyasal@gmail.com
 
