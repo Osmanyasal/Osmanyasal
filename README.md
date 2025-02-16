@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Osmanyasal and I'm a master student at [Koç University](https://www.ku.edu.tr/).
-- 👀 I’m interested in Parallel Programming and Performance tools
-- 🌱 I’m currently working on energy consumption of software.
+- 👋 Hi, I’m @Osmanyasal and I'm master graduate from [Koç University](https://www.ku.edu.tr/) studied HPC.
+- 👀 I’m interested in High Performance Computing, Parallel Programming, Performance - Energy Analysis & Optimisation, Advanced Tool and Library development, Computer Vision, Image Processing, Video Analysis, Deep Learning, Digital Twins, Massive scale applications.
+- 🌱 I’m currently working at [National Supercomputing Center of Czech Republic](https://www.it4i.cz/en)
 - 💞️ I’m collaborating with [parcorelab at Koç University](https://parcorelab.ku.edu.tr/)
 - 📫 to contact: osmyasal@gmail.com
   
